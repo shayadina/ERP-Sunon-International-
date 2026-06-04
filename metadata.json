@@ -1,0 +1,6 @@
+{
+  "name": "Sunon International ERP",
+  "description": "Enterprise Resource Planning (ERP) application for Sunon International. Built with Jetpack Compose, Room database, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
